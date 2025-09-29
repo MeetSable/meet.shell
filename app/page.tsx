@@ -5,10 +5,8 @@ import Portfolio from "./Portfolio";
 
 export default function RootLayout() {
   return (
-    <html lang="en">
-      <body>
+    <div>
         <Portfolio/>
-      </body>
-    </html>
+    </div>
   );
 }
